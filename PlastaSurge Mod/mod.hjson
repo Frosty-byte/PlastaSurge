@@ -1,0 +1,6 @@
+displayName: "PlastaSurge Mod"
+name: PlastaSurge Mod
+author: "Frosty"
+description: "PlastaSurge, simultaneously a conductor and a resistor."
+version: "0.5"
+minGameVersion: 120

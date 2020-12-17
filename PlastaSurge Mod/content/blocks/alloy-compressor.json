@@ -1,0 +1,34 @@
+name: Alloy Compressor
+description: Fuses metaglass, silicon, plastanium and surge-alloy into plastasurge.
+type: GenericSmelter
+
+size: 3
+health: 360
+
+hasPower: true
+hasLiquids: false
+hasItems: true
+consumes: {
+	power: 4.0
+	items: {
+		items: [
+			metaglass/3
+			silicon/3
+			plastanium/2
+			surge-alloy/2
+		]
+	}
+}
+
+outputItem: plastasurge/1
+
+requirements: [
+	lead/80
+	thorium/70
+	silicon/80
+	plastanium/70
+	surge-alloy/70
+]
+
+category: crafting
+research: alloy-smelter

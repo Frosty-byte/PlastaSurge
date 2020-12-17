@@ -1,0 +1,10 @@
+type: item
+color: D9D47B
+name: PlastaSurge
+description: A specialized material that is simultaneously both a conductor and a resistor.
+research: {
+	parent: surge-alloy
+}
+flammability: 0.1
+explosiveness: 0.2
+cost: 1.5

@@ -1,0 +1,15 @@
+{
+	type: StackConveyor
+	name: PlastaSurge Conveyor
+	health: 200
+	description: Transports items forward in batches even faster.
+	requirements: [
+		plastasurge/1
+		silicon/1
+		phase-fabric/1
+	]
+	category: distribution
+	itemCapacity: 20
+	speed: 0.10
+	research: plastanium-conveyor
+}

@@ -1,0 +1,14 @@
+type: PowerNode
+name: PlastaSurge Tower
+description: A more advanced Surge Tower with a much longer range and one additional node connection.
+size: 2
+maxNodes: 3
+laserRange: 80
+requirements: [
+	lead/20
+	titanium/14
+	silicon/30
+	plastasurge/30
+]
+category: power
+research: surge-tower

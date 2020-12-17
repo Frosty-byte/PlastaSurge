@@ -1,0 +1,13 @@
+type: Wall
+name: Large PlastaSurge Wall
+description: Protects structures from enemy projectiles, periodically releasing electric arcs upon contact while simultaniuosly absorbing lasers and electric arcs. Blocks automatic power connections.
+health: 6000
+size: 2
+requirements: [
+	plastasurge/24
+]
+insulated: true
+absorbLasers: true
+lightningChance: 0.10
+category: defense
+research: plastasurge-wall
