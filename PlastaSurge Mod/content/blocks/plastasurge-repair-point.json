@@ -1,0 +1,15 @@
+type: RepairPoint
+name: PlastaSurge Repair Point
+description: A more advanced repair point that continuously repairs the closest damaged unit in its vicinity.
+repairRadius: 200
+repairSpeed: 1.5
+size: 1
+laserColor: d8d57b
+hasPower: true
+powerUse: 2.5
+requirements:[
+	plastasurge/15
+	silicon/15
+]
+category: units
+research: repair-point
