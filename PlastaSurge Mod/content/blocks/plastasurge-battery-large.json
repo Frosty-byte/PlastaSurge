@@ -1,0 +1,14 @@
+type: battery
+name: Large PlastaSurge Battery
+description: Stores power in times of surplus energy. Outputs power in times of deficit. Higher capacity than a PlastaSurge battery.
+size: 3
+consumes: {
+	powerBuffered: 250000
+}
+requirements: [
+	plastasurge/20
+	lead/60
+	silicon/30
+]
+category: power
+research: plastasurge-battery
