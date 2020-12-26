@@ -7,3 +7,5 @@ PlastaSurge Tower; A more advanced Surge Tower with a much longer range and one 
 PlastaSurge Wall; Protects structures from enemy projectiles, periodically releasing electric arcs upon contact while simultaniuosly absorbing lasers and electric arcs. Blocks automatic power connections.
 Large PlastaSurge Wall; Protects structures from enemy projectiles, periodically releasing electric arcs upon contact while simultaniuosly absorbing lasers and electric arcs. Blocks automatic power connections.
 PlastaSurge Repair Point; A more advanced repair point that continuously repairs the closest damaged unit in its vicinity.
+PlastaSurge Battery; Stores power in times of surplus energy. Outputs power in times of deficit. Higher capacity than a regular battery.
+Large PlastaSurge Battery; Stores power in times of surplus energy. Outputs power in times of deficit. Higher capacity than a PlastaSurge battery.
